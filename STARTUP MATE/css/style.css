@@ -727,7 +727,7 @@ h1.slogan {
   display: none;
   z-index: 9999;
 }
-.close-modal {
+.fa-times {
   position: absolute;
   color: #fff;
   font-size: 40px;

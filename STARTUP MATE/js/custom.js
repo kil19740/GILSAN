@@ -62,7 +62,7 @@ $(function () {
     $(".video-modal").fadeIn();
     $("body").addClass("active");
   });
-  $(".close-modal").click(function () {
+  $(".fa-times").click(function () {
     $(".video-modal").fadeOut();
     $("body").removeClass("active");
   });
